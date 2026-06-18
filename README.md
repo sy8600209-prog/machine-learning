@@ -1,4 +1,4 @@
-# machine-learning
+# Machine-Learning
 A collection of Machine Learning concepts , algorithms, projects, and practice notebooks implemented in Python
 
 #About
